@@ -2,3 +2,4 @@
 
 技术架构<br>
 -------
+Spring,SpringMVC,SpringSecurity,Mybatis,TomCat,lombok,Thymeleaf,html,css,javascript,mysql
